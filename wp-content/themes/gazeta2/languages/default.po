@@ -1,0 +1,1088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAZETA\n"
+"POT-Creation-Date: 2015-03-18 11:13+0700\n"
+"PO-Revision-Date: 2015-03-18 11:13+0700\n"
+"Last-Translator: \n"
+"Language-Team: MarsTheme.com <nttoanbrvt@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__();_;_e;_e()\n"
+"X-Poedit-SearchPath-0: D:\\My_Works\\Envato\\Themeforest\\gazeta2\\gazeta2\n"
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/404.php:4
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-none.php:1
+msgid "Oops! Page Not Found."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/404.php:5
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-none.php:2
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:8
+msgid "1 comment"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:8
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:11
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:12
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:13
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:22
+msgid "Reply"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:46
+#, php-format
+msgid "Write the message to %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:47
+msgid "Cancel Reply"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:48
+msgid "Post Comment"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:50
+msgid "Message"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:60
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:67
+msgid ""
+"Your email address will not be published. Required fields are marked "
+"<span>*</span>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:71
+msgid "Name"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:72
+msgid "Email"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/comments.php:80
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-audio.php:9
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-gallery.php:13
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-image.php:19
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-page.php:19
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content-video.php:9
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/content.php:19
+msgid "Continue Reading <em>&#8594;</em>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:155
+msgid "Primary Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:157
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:166
+msgid "Appears in the right section of the site."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:164
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:173
+msgid "Header Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:175
+msgid "The Banner may be here."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:183
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:185
+msgid ""
+"You can go to Appearance/Theme Options for setting the columns number, 4 "
+"columns is default"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:198
+msgid "Main Navigation"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/functions.php:199
+msgid "Footer Navigation"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/header.php:52
+#, php-format
+msgid "Hi %s, %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/header.php:52
+msgid "Logout?"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/header.php:56
+msgid "Login"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/header.php:107
+msgid "Menu"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/header.php:124
+msgid "Type to search and hit enter"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:196
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:75
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:197
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:76
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:198
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:77
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:210
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:89
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:212
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1953
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:90
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:546
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2170
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1176
+msgid "Private Repository"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1179
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1184
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1187
+msgid "Required"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1187
+msgid "Recommended"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1190
+msgid "Not Installed"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1192
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1292
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1400
+msgid "Install"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1314
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1401
+msgid "Activate"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1363
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1379
+msgid "Plugin"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1380
+msgid "Source"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1381
+msgid "Type"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1382
+msgid "Status"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1510
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1618
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1936
+msgid "Install package not available."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1937
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1938
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1939
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1940
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1941
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:1952
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2066
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2067
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2076
+msgid "Show Details"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2067
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2076
+msgid "Hide Details"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2068
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2073
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2077
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:78
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:91
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:101
+msgid "Google Plus"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:102
+msgid "Facebook"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:103
+msgid "Twitter"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:104
+msgid "Instagram"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:105
+msgid "Tumblr"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:106
+msgid "Youtube"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:107
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:108
+msgid "Flickr"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:109
+msgid "Weibo"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:110
+msgid "Pinterest"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:290
+msgid "Order by Post ID"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:291
+msgid "Order by Author"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:292
+msgid "Order by Title"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:293
+msgid "Order by Post name (Post slug)"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:294
+msgid "Order by Date"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:295
+msgid "Order by Last modified date"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:296
+msgid "Order by Random"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:297
+msgid "Order by number of Comments."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:300
+msgid "Order by Views (require Jetpack's WP Stat addon activated)"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:308
+msgid "Ascending "
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:309
+msgid "Descending"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:356
+msgid "1 View"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/functions.php:359
+#, php-format
+msgid "%s Views"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/metaboxes.php:10
+msgid "Custom Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/metaboxes.php:27
+msgid "Choose a sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/metaboxes.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/templates.php:103
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:393
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/templates.php:153
+msgid "Pages:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/templates.php:180
+msgid "Categories:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:47
+msgid "General"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:56
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:57
+msgid "Favicon"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:62
+msgid "Blog Layout"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:64
+msgid "Left Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:65
+msgid "Right Sidebar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:68
+msgid ""
+"Set the layout of the blog/category/archive/author/tag/search page, not for "
+"static page."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:73
+msgid "Enable Transient"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:74
+msgid "Caching the Widget/Shortcode"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:80
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:577
+msgid "Transient Expiration"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:81
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:578
+msgid "Set/update the expiration value of the transients."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:83
+msgid ""
+"Time until expiration in seconds from now, or 0 for never expires. Ex: For "
+"one day, the expiration value would be: (60 * 60 * 24), all widgets and "
+"shortcodes will be cached with expiration is 300 seconds (mean is 5 "
+"minutes), you can set this value in the widget or the shortcode with the "
+"various values, example: <strong>[shortcode expiration=\"600\"]</strong> or "
+"enter a general value in this option, this will effect to all Widgets and "
+"Shortcodes."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:91
+msgid "404 Page"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:92
+msgid "Choose the 404 Error Page."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:93
+msgid "Or leave blank for default."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:98
+msgid "Minifying JS/CSS"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:99
+msgid "Loading JS/CSS Min"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:100
+msgid "This does not effect to another plugins's JS/CSS."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:106
+msgid "Viewing"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:107
+msgid "Activating Post Viewing feature."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:108
+msgid ""
+"On/Off will display/hide the View count number, this feature require "
+"Jetpack's Stats feature activated."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:114
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:115
+msgid "Paste your CSS code here, no style tag."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:122
+msgid "Mobile Custom CSS"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:123
+msgid ""
+"Paste your CSS code here, no style tag, this CSS will effect to the site on "
+"Mobile."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:130
+msgid "Custom JS"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:131
+msgid "Paste your JS code here, no script tag, eg: alert('hello world');"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:138
+msgid "Mobile Custom JS"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:139
+msgid ""
+"Paste your JS code here, no script tag, this JS will effect to the site on "
+"Mobile eg: alert('hello world');"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:148
+msgid "Styling"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:155
+msgid "Body"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:185
+msgid "Menu Item"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:213
+msgid "Heading"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:241
+msgid "Heading 1"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:270
+msgid "Heading 2"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:299
+msgid "Heading 3"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:328
+msgid "Heading 4"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:357
+msgid "Heading 5"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:386
+msgid "Heading 6"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:415
+msgid "Entry Title"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:443
+msgid "Entry Content"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:470
+msgid "Widget Heading Font"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:498
+msgid "Widget Wrapper Background"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:499
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:511
+msgid "Pick a background color for the Widget Heading."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:510
+msgid "Widget Inner Background"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:522
+msgid "Widget Heading Color"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:523
+msgid "Pick a color for the Widget Heading (default: #fff)."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:533
+msgid "Shows the Top Bar"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:539
+msgid "Current Datetime"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:540
+msgid "Display current datetime"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:546
+msgid "Datetime Format"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:547
+msgid "Formatting Date and Time"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:548
+#, php-format
+msgid "Check <strong>%s</strong> for more info."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:548
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:563
+msgid "HERE"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:554
+msgid "Weather"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:555
+msgid "Display the Weather Informations"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:561
+msgid "Wunderground API Key"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:562
+msgid "A paid service of Wunderground.com"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:563
+#, php-format
+msgid ""
+"This Key can be found at %s, You would need to signup and register a key, "
+"<i>This featured may not work properly for some locations.</i>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:569
+msgid "Location"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:570
+msgid "Getting this location's weather information"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:571
+#, php-format
+msgid ""
+"Or leave blank for getting visitor's location, the location is based on the "
+"IP address, here is %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:571
+msgid "yours"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:589
+#, php-format
+msgid "%s Profile Url"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:595
+msgid "Header"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:602
+msgid "Footer"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:609
+msgid "Footer's Columns"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:610
+msgid "Setting the Footer's widget columns."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:617
+msgid "Footer Text"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:618
+msgid "HTML Allowed"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:620
+#, php-format
+msgid "Copyright &copy; 2014 %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:642
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:643
+msgid "Theme Options"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:678
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:688
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/theme-options.php:690
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:28
+msgid "Gazeta Aside Posts Widget"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:29
+msgid "Display the Aside Posts Widget"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:192
+msgid "Nothing found!"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:224
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:649
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:242
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:451
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:665
+msgid "Title:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:246
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:460
+msgid "Layout:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:258
+msgid "Shows Thumbnail Image:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:262
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:674
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:264
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:676
+#, php-format
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme size: <strong>%s</strong>\"."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:267
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:455
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:669
+msgid "Caching Expiration"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:269
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:457
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:671
+msgid ""
+"Time until expiration in seconds from now, or 0 for never expires. Ex: For "
+"one day, the expiration value would be: (60 * 60 * 24)."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:272
+msgid "Author"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:274
+msgid "Specify Author to retrieve, use author id, separated by comma(,)"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:277
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:679
+msgid "Post Format"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:279
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:681
+msgid ""
+"Specify Post Format to retrieve (post-format-standard, post-format-audio, "
+"post-format-gallery,post-format-image,post-format-video), leave blank for "
+"all."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:282
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:684
+msgid "Post Tags"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:284
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:686
+#, php-format
+msgid "Specify Post Tags to retrieve, use %s, separated by comma(,)."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:284
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:686
+msgid "Tag Slugs"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:287
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:689
+msgid "Post Categories"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:289
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:691
+#, php-format
+msgid "Specify Post Categories to retrieve, use %s, separated by comma(,)."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:289
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:691
+msgid "Category IDs"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:292
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:694
+msgid "Ignore Sticky Posts:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:297
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:699
+msgid "Order by:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:311
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:713
+msgid "Order:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:324
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:726
+msgid "Show Posts:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:328
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:730
+#, php-format
+msgid "Need more filters? check out %s filter hook."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:334
+msgid "Classic"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:335
+msgid "Modern"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:350
+msgid "Gazeta Twitters"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:351
+msgid "Display the Twitter Feeds"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:416
+msgid "Getting feeds error."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:437
+msgid "Twitter Feeds"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:462
+msgid "Choose one ..."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:471
+msgid "Specify Layout to display."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:474
+msgid "Show Thumbnail:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:478
+msgid "Twitter Username:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:482
+msgid "Consumer Key:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:486
+msgid "Consumer Secret:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:490
+msgid "Access Token:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:494
+msgid "Access Token Secret:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:498
+msgid "How many tweets will be shown?:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:505
+msgid "List"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:506
+msgid "Block"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:521
+msgid "MegaMenu Posts"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:522
+msgid "Display the Posts on Mega Menu"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/includes/widgets.php:618
+#, php-format
+msgid "Posted on: %s"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/product-searchform.php:2
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/searchform.php:2
+msgid "Search and hit enter..."
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/product-searchform.php:2
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/search.php:6
+#, php-format
+msgid "Search result for : <span>%s</span>"
+msgstr ""
+
+#: D:\My_Works\Envato\Themeforest\gazeta2\gazeta2/search.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""

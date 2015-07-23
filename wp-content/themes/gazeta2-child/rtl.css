@@ -1,0 +1,286 @@
+/*
+Theme Name: GAZETA
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+/** logo **/
+.top-bar > .row > div:first-child{
+	float:right;
+}
+.tb-left li{
+	float:right;
+	margin-left: 35px;
+	margin-right:0px;
+}
+.top-bar > .row > div:last-child{
+	float:left;
+}
+.tb-right{
+	float:left;
+}
+.tb-right li{
+	float:right;
+	margin-right: 35px;
+	margin-left:0px;
+}
+.main-nagivation,
+div.logo{
+	float: right;
+}
+.search-trigger{
+	float: left;
+}
+@media only screen and (max-width: 995px){
+	.search-trigger {
+		position: absolute;
+		top: 0;
+		left: 15px;
+		right:auto;
+	}	
+}
+
+/** normal menu **/
+header nav ul li{
+	float:right!important;
+}
+.dropdown-menu li:before{
+	content:none;
+	background: inherit;
+}
+.dropdown-menu li:after {
+  content: "";
+  background: #e00000;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  top: 7px;
+  left: auto;
+  right:0;
+}
+.dropdown-menu li a{
+	padding-right: 20px!important;
+	padding-left: 0px!important;
+}
+/** mega menu **/
+li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a:before{
+	content: none!important;
+	background:none;
+}
+li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a{
+	text-align:right!important;
+	padding-right: 31px!important;
+}
+li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a:after {
+  content: ""!important;
+  background: #e00000!important;
+  width: 7px!important;
+  height: 7px!important;
+  position: absolute!important;
+  top: 19px!important;
+  right: 16px!important;
+  left: auto!important;
+  border-radius: 0!important;
+}
+/** homepage **/
+.bl-featured .slick-dots{
+	left: auto;
+	right: 16px;	
+}
+.bl-info span{
+	float: left;
+}
+.fn-inner h4{
+	padding-left: 45px;
+	padding-right: 0px;
+}
+.p-news ul li img{
+	float:right;
+}
+.gazeta-widget.side-widget.p-news .pn-info{
+	margin-right: 130px;
+	margin-left: 0;
+}
+.vc_col-sm-3 .gazeta-widget.side-widget.p-news .pn-info{
+	margin-left: 0;
+	margin-right: 0;
+}
+.m-comment li span{
+  right: auto;
+  left: 20px;	
+}
+.m-comment li h4{
+  left: auto;
+  right: 0;	
+}
+.m-comment li .fa-play{
+	left:10px;
+	right:auto;
+}
+.news-thumb h4{
+	right:0;
+	left:auto;
+}
+.news-thumb i.fa{
+	right:auto;
+	left:10px;
+}
+.twitter-list ul li img{
+	float: right;
+}
+.twitter-inner{
+  margin-left: 0;
+  margin-right: 85px;	
+}
+/** category block **/
+.cat-blocks .col-md-6:nth-child(1){
+	float: right;
+}
+.cat-blocks .col-md-6:nth-child(2){
+	float: left;
+}
+.cb-info ul li:before{
+	content:none;
+}
+.cb-info ul li{
+	  padding: 16px 43px 16px 20px;
+}
+.cb-info ul li:after {
+  content: "\f060";
+  font-family: "FontAwesome";
+  color: #E00000;
+  font-size: 13px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  left:auto;
+}
+/** Entry Content **/
+.entry-content ol, 
+.entry-content ul {
+  padding: 6px 30px 6px 0px;
+}
+.entry-content blockquote {
+  border-right: 10px solid #C52D2D;
+  border-left: none;
+}
+.entry-content .more-link{
+	display: block;
+}
+.entry-content .more-link em{
+  float: right;
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+  margin-left: 5px;	
+}
+.ns-meta span{
+	margin-left: 25px;
+	margin-right:0px;
+}
+.ns-meta i.fa{
+	margin-left: 10px;
+	margin-right: 0px;
+}
+/** comment list **/
+.comment-list li img{
+	float: right;
+}
+.comment-list .children {
+  width: 87%;
+  margin-right: 13%;
+  margin-left: 0px;
+}
+.nc-inner{
+	margin-right: 97px;
+	margin-left: 0px;
+}
+/** woocommerce **/
+.woocommerce-page .page-title{
+	border-right: 8px solid #E00000;
+	border-left:none;
+}
+.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count{
+	float:right;
+}
+.woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering{
+	float:left;
+}
+.woocommerce-pagination ul li{
+	float:right!important;
+}
+.woocommerce nav.woocommerce-pagination ul li a.next.page-numbers{
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);	
+}
+.woocommerce nav.woocommerce-pagination ul li a.prev.page-numbers{
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);	
+}
+.woocommerce-page div.product div.images{
+	float:right;
+}
+ .woocommerce-page div.product div.summary{
+ 	float:left;
+ }
+ .woocommerce div.product .woocommerce-tabs ul.tabs li{
+ 	float:right;
+ }
+ .woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+ 	  margin: 0 0 2.992em 3.8%;
+ 	float:right;
+ }
+ .woocommerce ul.cart_list li img, .woocommerce ul.product_list_widget li img{
+ 	float:left;
+ }
+ .woocommerce .woocommerce-message{
+	  padding: 1em 3.5em 1em 2em!important;
+ }
+ .woocommerce .woocommerce-message .button{
+	float: left;
+ }
+ .woocommerce .woocommerce-error:before, .woocommerce .woocommerce-info:before, .woocommerce .woocommerce-message:before{
+	content:none;
+ }
+
+/** footer **/
+.footer-widget.p-news .pn-info {
+  margin-right: 130px;
+  margin-left:0px;
+}
+/** navigation **/
+.nav-links ul li{
+	float:right;
+}
+.fa-angle-double-right:before {
+  content: "\f100";
+}
+.fa-angle-double-left:before {
+  content: "\f101";
+}
+.bcrumbs span[typeof="v:Breadcrumb"]{
+	float:right;
+}
+.bcrumbs span .fa{
+	float:right;
+	margin: 10px 0 0 0;
+}
+.bcrumbs span .fa-arrow-circle-o-right:before {
+  content: "\f190";
+}

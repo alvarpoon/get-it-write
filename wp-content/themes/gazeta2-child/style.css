@@ -1,0 +1,25 @@
+/*
+Theme Name: Gazeta 2 Child
+Theme URI: http://themeforest.net/user/phpface
+Author: Toan Nguyen
+Author URI: http://themeforest.net/user/phpface?ref=phpface
+Description: Gazeta - Responsive Magazine & News Wordpress Theme
+Version: 1.0.1
+License: GNU General Public License
+License URI: license.txt
+Tags: black, green, white, light, dark, two-columns, left-sidebar, right-sidebar, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: gazeta
+Template: gazeta2
+*/
+@import url("../gazeta2/style.css");
+
+.side-widget.widget_text a{
+  border: 1px solid #E5E5E5;
+  padding: 10px;
+  display: table;
+  width: 100%;	
+}
+.side-widget.widget_text img {
+  background: #e5e5e5;
+  padding: 20px;
+}

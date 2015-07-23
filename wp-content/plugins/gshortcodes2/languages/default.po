@@ -1,0 +1,603 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAZETA\n"
+"POT-Creation-Date: 2015-03-17 14:25+0700\n"
+"PO-Revision-Date: 2015-03-17 14:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: MarsTheme.com <nttoanbrvt@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__();_;_e;_e()\n"
+"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\Zend\\Apache2\\htdocs"
+"\\wp391\\wp-content\\plugins\\gshortcodes2\n"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/attribute/post-category.php:15
+msgid "All"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:19
+msgid "Featured Posts"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:21
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:170
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:327
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:473
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:602
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:738
+msgid "Gazeta"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:24
+msgid "Display the Slider Posts."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:30
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:179
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:336
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:490
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:619
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:745
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:35
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:105
+msgid "Heading"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:32
+msgid "This heading is not shown in frontend."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:39
+msgid "Is Grid layout? (Slider is default)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:45
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:204
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:515
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:644
+msgid "Columns"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:58
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:186
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:343
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:497
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:626
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:112
+msgid "ID"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:61
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:189
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:346
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:500
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:629
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:115
+msgid ""
+"<strong>IMPORTANT!</strong> You should change to an UNIQUE NAME, don't keep "
+"the default."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:67
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:195
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:352
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:506
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:635
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:121
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:269
+msgid "Caching Expiration"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:70
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:198
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:355
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:509
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:638
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:124
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:272
+msgid ""
+"Time until expiration in seconds from now, or 0 for never expires. Ex: For "
+"one day, the expiration value would be: (60 * 60 * 24)."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:74
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:211
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:393
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:522
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:651
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:142
+msgid "Thumbnail size"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:76
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:213
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:395
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:524
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:653
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:144
+#, php-format
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme size: <strong>%s</strong>\"."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:84
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:221
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:362
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:532
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:661
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:131
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:91
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:228
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:369
+msgid "Hide Post with no Featured Image."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:97
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:254
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:402
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:538
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:675
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:156
+msgid "Author"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:256
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:404
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:540
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:677
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:158
+msgid "Specify Author to retrieve, use author id, separated by comma(,)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:105
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:262
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:410
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:667
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:164
+msgid "Post Format"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:107
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:264
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:412
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:669
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:166
+msgid ""
+"Specify Post Format to retrieve (post-format-standard, post-format-audio, "
+"post-format-gallery,post-format-image,post-format-video), leave blank for "
+"all."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:113
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:270
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:418
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:546
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:683
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:172
+msgid "Post Tags"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:115
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:272
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:420
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:548
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:685
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:174
+#, php-format
+msgid "Specify Post Tags to retrieve, use %s, separated by comma(,)."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:115
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:272
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:420
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:548
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:685
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:174
+msgid "Tag Slugs"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:121
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:278
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:554
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:691
+msgid "Categories"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:123
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:280
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:556
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:693
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:182
+#, php-format
+msgid "Specify Post Categories to retrieve, use %s, separated by comma(,)."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:123
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:280
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:556
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:693
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:182
+msgid "Category IDs"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:129
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:286
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:433
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:562
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:699
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:188
+msgid "Order by"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:137
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:294
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:441
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:570
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:707
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:195
+msgid "Order"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:145
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:302
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:449
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:578
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:715
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:202
+msgid "Show Posts:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:151
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:308
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:455
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:584
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:721
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:804
+msgid "Extra class name"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:153
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:310
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:457
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:586
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:723
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:806
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:168
+msgid "Main Posts"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:173
+msgid "Display the Main Posts."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:207
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:518
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:647
+msgid "Column number of the list."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:235
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:376
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:241
+msgid "Excerpt length"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:325
+msgid "Category Block"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:330
+msgid "Display the Category Block."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:382
+msgid "Excerpt Length"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:426
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:180
+msgid "Category"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:471
+msgid "Gallery Posts (Grid)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:476
+msgid "Display the Gallery Posts."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:483
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:612
+msgid "Main Content"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:484
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:613
+msgid "Make this as Main content, the page navigation will work."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:600
+msgid "Grid Posts"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:605
+msgid "Display the Grid Posts."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:736
+msgid "Contact"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:741
+msgid "Display the Contact form/Google Map."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:747
+msgid "Get in touch with us"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:751
+msgid "Content"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:756
+msgid "E-mail address"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:761
+msgid "Phone"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:766
+msgid "Address"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:771
+msgid "Latitude"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:776
+msgid "Longitude"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:781
+msgid "Zoom"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:787
+msgid "Marker"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:792
+msgid "Color"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:798
+msgid "Saturation"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-shortcodes.php:811
+msgid "Contact Form 7 ID"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:10
+msgid "Do NOT Display Poll (Disable)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:11
+msgid "Display Random Poll"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:12
+msgid "Display Latest Poll"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:24
+msgid "WP Polls"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:26
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:96
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:253
+msgid "WordPress Widgets"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:29
+msgid "Display the Polls widget."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:42
+msgid "Display Polls Archive Link Below Poll?"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:45
+msgid "No"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:46
+msgid "Yes"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:53
+msgid "Poll To Display:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:94
+msgid "Aside Posts Widget"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:99
+msgid "Display the Aside Posts widget."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:138
+msgid "Shows Thumbnail Image"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:251
+msgid "Twitter Feeds"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:256
+msgid "Display the Twitter Feeds widget."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:262
+msgid "Title"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:278
+msgid "Layout"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:281
+msgid "List"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:282
+msgid "Block"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:290
+msgid "Display Twitter Avatar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:296
+msgid "Twitter Username:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:303
+msgid "Consumer Key:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:310
+msgid "Consumer Secret:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:317
+msgid "Access Token:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:324
+msgid "Access Token Secret:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/map-widgets.php:331
+msgid "How many tweets will be shown?"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/shortcodes.php:645
+msgid "Gallery Screenshots"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\plugins\gshortcodes2/includes/shortcodes.php:897
+msgid "Send Us a message"
+msgstr ""
