@@ -66,8 +66,6 @@
         // Welcome
         require_once dirname( __FILE__ ) . '/inc/welcome/welcome.php';
 
-        //require_once dirname( __FILE__ ) . '/inc/class.redux_sass.php';
-
         /**
          * Main ReduxFramework class
          *
@@ -79,7 +77,7 @@
             // Please update the build number with each push, no matter how small.
             // This will make for easier support when we ask users what version they are using.
 
-            public static $_version = '3.5.5';
+            public static $_version = '3.5.6.1';
             public static $_dir;
             public static $_url;
             public static $_upload_dir;
@@ -339,7 +337,7 @@
                     $this->get_options();
 
                     // Tracking
-                    if ( true != Redux_Helpers::isTheme( __FILE__ ) || true == Redux_Helpers::isTheme( __FILE__ ) ) {
+                    if ( isset( $this->args['allow_tracking'] ) && $this->args['allow_tracking'] && Redux_Helpers::isTheme( __FILE__ ) ) {
                         $this->_tracking();
                     }
 
@@ -446,9 +444,6 @@
                 $upload_dir        = wp_upload_dir();
                 self::$_upload_dir = $upload_dir['basedir'] . '/redux/';
                 self::$_upload_url = $upload_dir['baseurl'] . '/redux/';
-                if ( ! is_dir( self::$_upload_dir ) && $this->args['save_defaults'] === true ) {
-                    $this->filesystem->execute( 'mkdir', self::$_upload_dir );
-                }
             }
 
             private function set_default_args() {
@@ -1284,6 +1279,18 @@
                     $this->args['admin_bar']      = false;
                     $this->args['allow_sub_menu'] = false;
                 }
+
+                // Check if the Airplane Mode plugin is installed
+                if ( class_exists( 'Airplane_Mode_Core' ) ) {
+                    $airplane = Airplane_Mode_Core::getInstance();
+                    if ( method_exists( $airplane, 'enabled' ) ) {
+                        if ( $airplane->enabled() ) {
+                            $this->args['use_cdn'] = false;
+                        }
+                    } else if ( $airplane->check_status() == 'on' ) {
+                        $this->args['use_cdn'] = false;
+                    }
+                }
             }
 
             /**
@@ -1653,7 +1660,7 @@
                                 s.parentNode.insertBefore( wf, s );
                             })();
                         </script>
-                    <?php
+                        <?php
                     } elseif ( ! $this->args['disable_google_fonts_link'] ) {
                         $protocol = ( ! empty ( $_SERVER['HTTPS'] ) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443 ) ? "https:" : "http:";
 
@@ -1677,23 +1684,6 @@
                 require_once 'core/enqueue.php';
                 $enqueue = new reduxCoreEnqueue ( $this );
                 $enqueue->init();
-
-
-//                if ($this->args['sass']['enabled']) {
-//                    $ret = reduxSassCompiler::compile_sass($this);
-//
-//                    if ($ret == reduxSassCompiler::SASS_FILE_COMPILE || $ret == reduxSassCompiler::SASS_NO_COMPILE) {
-//                        if (file_exists(ReduxFramework::$_upload_dir . $this->args['opt_name'] .  '-redux.css')) {
-//                            wp_enqueue_style(
-//                                'redux-fields-css',
-//                                ReduxFramework::$_upload_url . $this->args['opt_name'] .  '-redux.css',
-//                                array(),
-//                                $timestamp,
-//                                'all'
-//                            );
-//                        }
-//                    }
-//                }
             }
 // _enqueue()
 
@@ -1936,7 +1926,7 @@
                             $hint_color = isset ( $this->args['hints']['icon_color'] ) ? $this->args['hints']['icon_color'] : '#d3d3d3';
 
                             // Set hint html with appropriate position css
-                            $hint = '<div class="redux-hint-qtip" style="float:' . $this->args['hints']['icon_position'] . '; font-size: ' . $size . '; color:' . $hint_color . '; cursor: ' . $pointer . ';" qtip-title="' . $titleParam . '" qtip-content="' . $contentParam . '"><i class="' . ( isset( $this->args['hints']['icon'] ) ? $this->args['hints']['icon'] : '' ) . '"></i>&nbsp&nbsp</div>';
+                            $hint = '<div class="redux-hint-qtip" style="float:' . $this->args['hints']['icon_position'] . '; font-size: ' . $size . '; color:' . $hint_color . '; cursor: ' . $pointer . ';" qtip-title="' . $titleParam . '" qtip-content="' . $contentParam . '">&nbsp;<i class="' . ( isset( $this->args['hints']['icon'] ) ? $this->args['hints']['icon'] : '' ) . '"></i></div>';
                         }
                     }
 
@@ -2928,7 +2918,7 @@
 
                                 // Make sure 'validate field' is set to 'not_empty' or 'email_not_empty'
                                 //if ( $field['validate'] == 'not_empty' || $field['validate'] == 'email_not_empty' || $field['validate'] == 'numeric_not_empty' ) {
-                                if (strtolower (substr( $field['validate'], -9) ) == 'not_empty'){
+                                if ( strtolower( substr( $field['validate'], - 9 ) ) == 'not_empty' ) {
 
                                     // Set the flag.
                                     $isNotEmpty = true;
@@ -3094,7 +3084,7 @@
                 }
 
                 $string = "";
-                if ( ( isset ( $this->args['icon_type'] ) && $this->args['icon_type'] == 'image' ) || ( isset ( $section['icon_type'] ) && $section['icon_type'] == 'image' ) ) {
+                if ( ( ( isset ( $this->args['icon_type'] ) && $this->args['icon_type'] == 'image' ) || ( isset ( $section['icon_type'] ) && $section['icon_type'] == 'image' ) ) || ( isset($section['icon'])  && strpos( $section['icon'], '/' ) !== false ) ) {
                     //if( !empty( $this->args['icon_type'] ) && $this->args['icon_type'] == 'image' ) {
                     $icon = ( ! isset ( $section['icon'] ) ) ? '' : '<img class="image_icon_type" src="' . $section['icon'] . '" /> ';
                 } else {

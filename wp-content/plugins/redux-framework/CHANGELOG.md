@@ -1,5 +1,43 @@
 # Redux Framework Changelog
 
+## 3.5.6.1
+* Fixed:     Index error regarding icon argument.
+
+## 3.5.6
+* Fixed     Customizer WP 4.3 final fixes.
+
+## 3.5.5.9
+* Fixed     #2500 - Conflict with outdated select2 in JW Player plugin.
+
+## 3.5.5.8
+* Modified: icon_type no longer needed for section icons. Now detects if URLs are provided for images.
+* Fixed:    Various customizer fixes. HTML in the customizer title.
+* Modified: Media URL now is 95% wide.
+* Modified: Select2 now 100% width instead of just resolve (that doesn't always work).
+
+## 3.5.5.7
+* Modified: Field enqueue method to allow for more flexibility.
+* Added:    Support for Airplane Mode plugin (https://github.com/norcross/airplane-mode) by @norcross. Thanks @chriscct7  #2463
+
+## 3.5.5.6
+* Fixed:    Undefined index in theme-check enhancements. Thanks @winwinwebdesign!
+* Removed:  SASS compiler & code. Note needed.
+* Fixed:    Color transparency live-update for Customizer for color, background, 
+            and color gradient fields.
+
+## 3.5.5.5
+* Fixed:    Undefined index when removing a section.
+
+## 3.5.5.4
+* Fixed:    Typography bug onload always saying settings have changed.
+* Modified: Added minified customizer JS.
+
+## 3.5.5.3
+* Fixed:    Redux CUSTOMIZER! YEA!
+
+## 3.5.5.2
+* Fixed:    Small echo in Redux API
+
 ## 3.5.5.1
 * Fixed:    PHP 5.2 Theme-Check error.
 

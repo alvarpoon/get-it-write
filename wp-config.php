@@ -16,16 +16,24 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'getitwrite');
+switch ($_SERVER['SERVER_NAME']) {
 
-/** MySQL database username */
-define('DB_USER', 'root');
+  case "local.egg.com":
+    define( 'DB_NAME',     'getitwrite' );
+    define( 'WP_SITEURL',  'http://local.get-it-write.com' );
+    define( 'WP_HOME', 'http://local.get-it-write.com' );
+    define( 'DB_USER',     'root' );
+    define( 'DB_PASSWORD', 'root' );
+    define( 'DB_HOST',     'localhost' );
 
-/** MySQL database password */
-define('DB_PASSWORD', 'root');
-
-/** MySQL hostname */
-define('DB_HOST', 'localhost');
+  case "get-it-write.nowwhat.hk":
+    define( 'DB_NAME',     'nowwhat_getitwrite' );
+    define( 'WP_SITEURL',  'http://get-it-write.nowwhat.hk' );
+    define( 'WP_HOME', 'http://get-it-write.nowwhat.hk' );
+    define( 'DB_USER',     'nowwhat' );
+    define( 'DB_PASSWORD', '20273214' );
+    define( 'DB_HOST',     'localhost' );
+}
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
@@ -69,6 +77,8 @@ $table_prefix  = 'getitwrite_';
  * in their development environments.
  */
 define('WP_DEBUG', false);
+
+//define ('WPLANG', 'zh_TW');
 
 /* That's all, stop editing! Happy blogging. */
 
